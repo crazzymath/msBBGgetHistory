@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     53017,       1219]
-NotebookOptionsPosition[     52424,       1194]
-NotebookOutlinePosition[     52772,       1209]
-CellTagsIndexPosition[     52729,       1206]
+NotebookDataLength[     53081,       1220]
+NotebookOptionsPosition[     52488,       1195]
+NotebookOutlinePosition[     52836,       1210]
+CellTagsIndexPosition[     52793,       1207]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -41,7 +41,7 @@ Cell[BoxData[{
           RowBox[{
            RowBox[{"FileNameSplit", "[", "$InstallationDirectory", "]"}], ",", 
            RowBox[{"-", "2"}]}], "]"}], ",", "\"\<msFunctions\>\"", ",", 
-         "\"\<msBBGgetHistory.exe\>\""}], "}"}], "]"}], "]"}]}], "}"}]}], 
+         "\"\<msBBGgetHistoryLink.exe\>\""}], "}"}], "]"}], "]"}]}], "}"}]}], 
   ";"}], "\[IndentingNewLine]", 
  RowBox[{
   RowBox[{
@@ -90,8 +90,8 @@ want.\>\""}], ";"}], "\[IndentingNewLine]"}], "\[IndentingNewLine]",
             RowBox[{"FileNameSplit", "[", "$InstallationDirectory", "]"}], 
             ",", 
             RowBox[{"-", "2"}]}], "]"}], ",", "\"\<msFunctions\>\"", ",", 
-          "\"\<msBBGgetHistory.exe\>\""}], "}"}], "]"}], "]"}]}]}], "}"}]}], 
-  ";"}], "\[IndentingNewLine]", 
+          "\"\<msBBGgetHistoryLink.exe\>\""}], "}"}], "]"}], "]"}]}]}], 
+    "}"}]}], ";"}], "\[IndentingNewLine]", 
  RowBox[{
   RowBox[{
    RowBox[{"msBBGgetHistory", "[", 
@@ -330,7 +330,8 @@ EventSeries[], while value-type data is stored as TimesSeries[].\>\""}], " ",
    3.6661039531821146`*^9}, {3.6661039849481907`*^9, 3.666104008578267*^9}, {
    3.6661041762120934`*^9, 3.6661041983746767`*^9}, 3.666104676941266*^9, {
    3.666106520315447*^9, 3.6661065220184546`*^9}, 3.6661139903186054`*^9, {
-   3.666114025072439*^9, 3.6661140468693967`*^9}}],
+   3.666114025072439*^9, 3.6661140468693967`*^9}, {3.6663669982227964`*^9, 
+   3.6663670052051954`*^9}}],
 
 Cell[CellGroupData[{
 
@@ -1211,19 +1212,17 @@ Notebook[{
 Cell[CellGroupData[{
 Cell[580, 22, 165, 2, 49, "Subsection"],
 Cell[748, 26, 135, 1, 30, "Text"],
-Cell[886, 29, 14483, 303, 1232, "Input"],
+Cell[886, 29, 14547, 304, 1212, "Input"],
 Cell[CellGroupData[{
-Cell[15394, 336, 417, 8, 31, "Input"],
-Cell[15814, 346, 14609, 337, 72, "Output"]
+Cell[15458, 337, 417, 8, 31, "Input"],
+Cell[15878, 347, 14609, 337, 72, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[30460, 688, 1403, 34, 92, "Input"],
-Cell[31866, 724, 20530, 466, 260, "Output"]
+Cell[30524, 689, 1403, 34, 92, "Input"],
+Cell[31930, 725, 20530, 466, 260, "Output"]
 }, Open  ]]
 }, Open  ]]
 }
 ]
 *)
-
-(* End of internal cache information *)
 
